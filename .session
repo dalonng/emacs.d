@@ -1,0 +1,44 @@
+;;; -*- coding: utf-8; -*-
+;;; Automatically generated on Wed Nov 28 18:29:36 2018
+;;; Invoked by dalong@mototo.local using 26.1
+(setq-default kill-ring '("PAYNEXT-264" "MIUI-1470227"))
+(setq-default session-file-alist '(("~/p/Reminders/.gitignore" 6 178 1 nil nil 1198 (overwrite-mode)) ("~/p/ProjectEuler/problem10.cpp" 47 47 1 nil nil 47 (overwrite-mode)) ("~/.emacs.d/games/tetris-scores" 58 nil 1 nil nil 57 (overwrite-mode)) ("~/.emacs.d/barrel/peat-projectile.el" 400 376 1 nil nil 400 (overwrite-mode)) ("~/.emacs.d/elpa/counsel-0.10.0/counsel-autoloads.el" 10691 nil 1 nil nil 10691 (overwrite-mode)) ("~/.emacs.d/custom.el" 1 nil 1 nil nil 628 (overwrite-mode)) ("~/p/ProjectEuler/ProjectEuler/prime.hpp" 289 289 1 nil nil 1 (overwrite-mode)) ("~/p/ProjectEuler/ProjectEuler/number.hpp" 1 nil 1 nil nil 1 (overwrite-mode)) ("~/.emacs.d/elpa/swiper-0.10.0/swiper-autoloads.el" 736 nil 1 nil nil 736 (overwrite-mode)) ("~/.emacs.d/init.el" 409 361 1 nil nil 386 (overwrite-mode)) ("~/p/ProjectEuler/.DS_Store" 1 nil 1 nil nil 1 (overwrite-mode))))
+(setq-default file-name-history '("~/p/ProjectEuler/.DS_Store" "~/.emacs.d/init.el" "~/.emacs.d/projectile-bookmarks.eld" "~/p/ProjectEuler/ProjectEuler/number.hpp" "~/p/ProjectEuler/ProjectEuler/prime.hpp" "~/p/ProjectEuler/ProjectEuler/main.cpp" "~/p/ProjectEuler/ProjectEuler/number.cpp" "~/.emacs.d/barrel/peat-session.el" "~/.emacs.d/barrel/peat-projectile.el" "~/p/AFNetworking/AFNetworking/AFHTTPSessionManager.h" "~/p/ProjectEuler/TAGS" "~/p/ProjectEuler/problem10.cpp" "~/p/Reminders/.gitignore" "~/p/MiPhone/packages/apps/TSMClient/.git/COMMIT_EDITMSG" "/Volumes/G-Drive/love.org"))
+(setq-default regexp-search-ring '("git"))
+(setq-default buffer-name-history '("tetris-scores"))
+(setq-default command-history '((shell nil) (list-colors-display) (calc nil nil 1) (calendar nil) (kill-buffer "tetris-scores") (tetris) (swiper) (counsel-imenu) (find-file "/Users/dalong/.emacs.d/barrel/peat-projectile.el" t) (package-install (quote counsel) nil) (execute-extended-command nil "package-install" #("package-in
+package-install
+package-import-keyring
+package-install-file
+package-install-selected-packages
+package-install-from-buffer
+package-initialize" 10 11 ... 11 20 ... 20 26 ... 26 27 ... 27 36 ... 36 50 ... 50 59 ... 59 71 ... 71 80 ... 80 105 ... 105 114 ... 114 133 ... 133 142 ... 142 151 ...)) (find-file "/Users/dalong/p/ProjectEuler/ProjectEuler/number.cpp" t) (find-file "/Users/dalong/p/ProjectEuler/ProjectEuler/main.cpp" t) (ns-next-frame) (execute-extended-command nil "ns-next-frame" #("ns-ne
+ns-next-frame" 5 6 ... 6 10 ... 10 19 ...)) (execute-extended-command nil "ns-next-frame" #("ns-nex
+ns-next-frame" 6 7 ... 7 12 ... 12 20 ...)) (find-file "/Users/dalong/p/ProjectEuler/ProjectEuler/prime.hpp" t) (find-file "/Users/dalong/.emacs.d/projectile-bookmarks.eld" t) (find-file "/Users/dalong/.emacs.d/init.el" t) (execute-extended-command nil "ns-next-frame" #("ns-next
+ns-next-frame" 7 8 ... 8 14 ... 14 21 ...)) (projectile--find-file nil) (execute-extended-command nil "projectile--find-file" #("pro
+url-setup-privacy-info
+ivy-occur-previous-line
+highlight-changes-previous-change
+pr-despool-using-ghostscript
+ebnf-print-buffer
+mail-quote-printable-region
+Info-prev-reference
+previous-completion
+pr-ps-fast-fire" 3 4 ... 4 14 ... 14 16 ... 16 26 ... 26 37 ... 37 39 ... 39 69 ... 69 71 ... 71 85 ... 85 87 ... 87 119 ... 119 121 ... 121 143 ... 143 145 ... 145 165 ... 165 167 ... 167 180 ... 180 182 ... 182 200 ... 200 202 ... 202 215 ...)) (execute-extended-command nil "projectile--find-file" #("find
+find-function-other-frame
+ebnf-find-style
+find-library
+find-grep-dired
+projectile--find-file
+ido-find-file-other-window
+xref-find-definitions-other-window
+find-variable
+projectile-find-tag" 4 5 ... 5 8 ... 8 30 ... 30 36 ... 36 39 ... 39 47 ... 47 50 ... 50 60 ... 60 63 ... 63 88 ... 88 91 ... 91 102 ... 102 105 ... 105 130 ... 130 133 ... 133 137 ... 137 140 ... 140 160 ... 160 163 ... 163 185 ... 185 188 ... 188 193 ...)) (ivy-mode (quote toggle)) (execute-extended-command nil "ivy-mode" "ivy-mo") (find-file "~/p/ProjectEuler/problem10.cpp" t) (find-file "~/p/ProjectEuler/" t) (find-file "~/.emacs.d/init.el" t)))
+(setq-default counsel-M-x-history '(#("^shell" 0 6 (ivy-index 2)) #("^list-co" 0 8 (ivy-index 0)) #("^list-col" 0 9 (ivy-index 0)) #("^calc" 0 5 (ivy-index 5)) #("^calen" 0 6 (ivy-index 1)) #("^kill-bu" 0 8 (ivy-index 0)) #("^tetris" 0 7 (ivy-index 0)) #("^dired" 0 6 (ivy-index 92)) #("^swiper" 0 7 (ivy-index 9)) #("^counsel-im" 0 11 (ivy-index 0))))
+(setq-default counsel-describe-symbol-history '(#("^" 0 1 (ivy-index 0))))
+(setq-default counsel-git-grep-cmd-history '("git --no-pager grep --full-name -n --no-color -i -e \"%s\""))
+(setq-default extended-command-history '("package-in" "ns-ne" "ns-nex" "ns-next" "pro" "find" "ivy-mode"))
+(setq-default ivy-history '("counsel" "coun" "ProjectEuler/number.hpp" "~/p/ProjectEuler/" "ProjectEuler/prime.hpp"))
+(setq-default minibuffer-history '("11" "1" "323" "69" "3"))
+(setq-default occur-collect-regexp-history '("\\1"))
+(setq-default swiper-history '(#("git" 0 3 (ivy-index 0))))

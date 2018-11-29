@@ -1,0 +1,1 @@
+("~/p/ProjectEuler/" "~/p/AFNetworking/" "~/p/Reminders/" "~/p/MiPhone/packages/apps/TSMClient/")
